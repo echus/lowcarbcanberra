@@ -74,3 +74,7 @@ defaults:
 #custom_fonts:
 #  urls: "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Oswald&display=swap"
 #  preconnect: "https://fonts.gstatic.com"
+
+# Fixes github actions error
+# See: https://github.com/jekyll/jekyll/issues/5267
+exclude: [vendor]
