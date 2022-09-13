@@ -1,0 +1,81 @@
+---
+title: false
+styles: true
+---
+
+$accent: #0094EA;
+
+$backgroundColour: whitesmoke;
+
+// Typography
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&family=Roboto:wght@300;400;700&display=swap');
+
+$bodytype: (
+  font-family: 'Roboto, sans-serif',
+  regular: 300,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+);
+
+$headingtype: (
+  font-family: 'Roboto Condensed, sans-serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+);
+
+@import "alembic";
+
+div.feature {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: transparent;
+}
+
+header.header {
+  background-color: $accent;
+  margin-bottom: 2em;
+}
+
+a.logo {
+  img {
+    display: none;
+  }
+}
+
+.item--current a {
+  color: white;
+  text-transform: lowercase;
+  font-variant: small-caps;
+}
+
+footer.footer {
+  background-color: gainsboro;
+
+  a, small {
+    color: black;
+  }
+
+  small.small {
+    font-family: monospace;
+
+    a {
+      text-decoration: underline;
+    }
+  }
+
+  .nav a {
+    text-transform: lowercase;
+    font-variant: small-caps;
+  }
+}
+
+article.content {
+  h1 {
+    font-weight: 700;
+    font-size: 2em;
+    color: darken($accent, 20%);
+    color: dimgray;
+  }
+}
