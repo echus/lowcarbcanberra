@@ -12,7 +12,7 @@ $backgroundColour: whitesmoke;
 
 $bodytype: (
   font-family: 'Roboto, sans-serif',
-  regular: 300,
+  regular: 400,
   bold: 700,
   italic: italic,
   cap-height: 0.75
@@ -76,7 +76,25 @@ article.content {
     font-weight: 700;
     font-size: 2em;
     color: darken($accent, 20%);
-    color: dimgray;
+    color: #333;
+  }
+
+  h3 {
+    color: darken($accent, 20%);
+    color: #333;
+  }
+
+  ul {
+    margin-left: 1em;
+  }
+
+  p:first-of-type {
+    display: inline-flex;
+    float: right;
+  }
+
+  h1:first-child {
+    display: inline-flex;
   }
 }
 

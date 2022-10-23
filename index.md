@@ -4,8 +4,23 @@ feature_image: "assets/images/lcc_logo_transparent_cropped.png"
 feature_text: ""
 ---
 
-{% include button.html text="Get tickets" link="https://eventbrite.com.au" %}
+{% include button.html text="Get tickets" link="https://www.eventbrite.com/e/low-carb-canberra-2022-christmas-special-tickets-419487938717" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Est ultricies integer quis auctor elit sed vulputate mi. Id aliquet lectus proin nibh. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada. Amet commodo nulla facilisi nullam vehicula ipsum.
+Low Carb Canberra's yearly event is back!
 
-Malesuada fames ac turpis egestas maecenas pharetra convallis posuere morbi. Blandit volutpat maecenas volutpat blandit aliquam etiam erat velit. Iaculis urna id volutpat lacus laoreet. Diam maecenas sed enim ut. Velit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum. Sit amet venenatis urna cursus. Lectus sit amet est placerat in egestas erat. Dui sapien eget mi proin sed libero enim sed. Eu non diam phasellus vestibulum.
+Low Carb Canberra is a conference on low carb nutrition for optimising health.
+Join us for two days of talks by low carb experts as well as fellow community members.
+
+### Confirmed presenters
+* Dr. Pran Yoganathan
+* Tara Whelan
+* Dr. Liz Fraser
+* Richard Morris
+* Jessica Turton 
+* Thomas Paavola
+* Dr. Anja Michel
+* Dr. Patrick Ryan
+* Matthew Ryan
+* Dr. Rowena Field
+
+Full presenter list and program coming soon.
